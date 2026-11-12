@@ -1,0 +1,10 @@
+# Generated LTspice data and transient runtime files
+*.raw
+*.op.raw
+*.log
+*.net
+*.plt
+*.bak
+*.asy.bak
+*.tmp
+*.db

@@ -1,2 +1,1 @@
-# Water-Leakage-Detection-with-Hysteresis-using-LTspice
-Design and simulation of a water leakage detection and alarm system using LTspice, featuring an LT1011 comparator, transistor-based LED alarm, hysteresis, and noise immunity analysis.
+Add exported LTspice plots/screenshots here (PNG format). Suggested: dry_vs_wet.png, detection_transient.png, hysteresis_thresholds.png, noise_comparison.png.
