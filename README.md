@@ -142,16 +142,27 @@ This is a **1 kHz, 40 mV peak-to-peak** signal (2.48–2.52 V). Run the same tra
 4. Click **Run**, then plot `V(v_sense)` and `I(D1)`. Label additional nodes if desired to make the reference and output traces easier to find.
 5. For the noise comparison, create a copy of the hysteresis schematic and remove R8 from the copy only. Change V2 in **both** copies to the same sine-wave expression and compare results.
 
-## Screenshots
 
-Simulation screenshots are not yet checked into this repository. Recommended figures to add in a `results/` directory:
+## Simulation Results
 
-- `dry_wet_operating_points.png`
-- `leak_event_transient.png`
-- `hysteresis_triangle_comparison.png`
-- `noise_immunity_comparison.png`
+### 1. Dry Condition
+![Dry Condition](01_Dry_Condition.png)
 
-Once added, embed the images here using Markdown (`![Description](results/filename.png)`).
+### 2. Wet Condition
+![Wet Condition](02_Wet_Condition.png)
+
+### 3. Water Leakage Detection
+![Leak Transition](03_Leak_Transition.png)
+
+### 4. LED Alarm Activation
+![LED Activation](04_LED_Activation.png)
+
+### 5. Hysteresis Comparison
+![Hysteresis Comparison](05_Hysteresis_Comparison.png)
+
+### 6. Noise Immunity Analysis
+![Noise Immunity](06_Noise_Immunity.png)
+
 
 ## Engineering limitations and next steps
 
