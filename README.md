@@ -146,22 +146,22 @@ This is a **1 kHz, 40 mV peak-to-peak** signal (2.48–2.52 V). Run the same tra
 ## Simulation Results
 
 ### 1. Dry Condition
-![Dry Condition](01_Dry_Condition.png)
+![Dry Condition](images/01_Dry_Condition.png)
 
 ### 2. Wet Condition
-![Wet Condition](02_Wet_Condition.png)
+![Wet Condition](images/02_Wet_Condition.png)
 
 ### 3. Water Leakage Detection
-![Leak Transition](03_Leak_Transition.png)
+![Leak Transition](images/03_Leak_Transition.png)
 
 ### 4. LED Alarm Activation
-![LED Activation](04_LED_Activation.png)
+![LED Activation](images/04_LED_Activation.png)
 
 ### 5. Hysteresis Comparison
-![Hysteresis Comparison](05_Hysteresis_Comparison.png)
+![Hysteresis Comparison](images/05_Hysteresis_Comparison.png)
 
 ### 6. Noise Immunity Analysis
-![Noise Immunity](06_Noise_Immunity.png)
+![Noise Immunity](images/06_Noise_Immunity.png)
 
 
 ## Engineering limitations and next steps
